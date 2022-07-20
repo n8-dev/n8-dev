@@ -8,7 +8,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankurte&repo=doesmybank&show_owner=true&border_radius=15&theme=shades-of-purple)](https://github.com/ryankurte/doesmybank)
 
-
+[![Profile last updated](https://img.shields.io/github/last-commit/n8-dev/n8-dev/main?label=Last%20updated&style=?style=flat-square)](https://github.com/n8-dev/n8-dev/commits)
 
 
 

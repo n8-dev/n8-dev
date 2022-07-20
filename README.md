@@ -1,15 +1,21 @@
-### 
-:tada:
+## 💜 I like <a href="https://github.com/topics/shades-of-purple"> 🦄 shades-of-purple</a>
 
-[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=n8-dev&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&hide=stars&border_radius=15&theme=shades-of-purple)](https://github.com/n8-dev)
+[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=n8-dev&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&hide=stars&theme=shades-of-purple)](https://github.com/n8-dev)
 
 
-[![Nate's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n8-dev&count_private=true&langs_count=10&layout=compact&cache_seconds=1800&border_radius=15&theme=shades-of-purple&card_width=350)](https://github.com/n8-dev)
+[![Nate's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n8-dev&count_private=true&langs_count=10&layout=compact&cache_seconds=1800&theme=shades-of-purple&card_width=350)](https://github.com/n8-dev)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankurte&repo=doesmybank&show_owner=true&border_radius=15&theme=shades-of-purple)](https://github.com/ryankurte/doesmybank)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=n8-dev&theme=shades-of-purple&fire=FF9D00&border=A5A4B1)](https://git.io/streak-stats)
 
-[![Profile last updated](https://img.shields.io/github/last-commit/n8-dev/n8-dev/main?label=Last%20updated&style=?style=flat-square)](https://github.com/n8-dev/n8-dev/commits)
 
+### 💻 Things I've been involved in (in one way or another) and/or you should check out:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankurte&repo=doesmybank&show_owner=true&theme=shades-of-purple)](https://github.com/ryankurte/doesmybank)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaxxnz&repo=vaxxnz&show_owner=true&theme=shades-of-purple)](https://github.com/vaxxnz/vaxxnz)
+
+[![Profile last updated](https://img.shields.io/github/last-commit/n8-dev/n8-dev/main?label=Last%20updated&style=flat)](https://github.com/n8-dev/n8-dev/commits)
 
 
 <!--

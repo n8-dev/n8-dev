@@ -15,6 +15,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaxxnz&repo=vaxxnz&show_owner=true&theme=shades-of-purple)](https://github.com/vaxxnz/vaxxnz)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silverstripe&repo=silverstripe-framework&show_owner=true&theme=shades-of-purple)](https://github.com/silverstripe/silverstripe-framework)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silverstripe&repo=silverstripe-cms&show_owner=true&theme=shades-of-purple)](https://github.com/silverstripe/silverstripe-cms)
+
 [![Profile last updated](https://img.shields.io/github/last-commit/n8-dev/n8-dev/main?label=Last%20updated&style=flat)](https://github.com/n8-dev/n8-dev/commits)
 
 

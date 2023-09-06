@@ -8,7 +8,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankurte&repo=doesmybank&show_owner=true&theme=shades-of-purple)](https://github.com/ryankurte/doesmybank)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaxxnz&repo=vaxxnz&show_owner=true&theme=shades-of-purple)](https://github.com/vaxxnz/vaxxnz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silverstripeltd&repo=bespoke-standards&show_owner=true&theme=shades-of-purple)](https://github.com/silverstripeltd/bespoke-standards)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silverstripe&repo=silverstripe-framework&show_owner=true&theme=shades-of-purple)](https://github.com/silverstripe/silverstripe-framework)
 

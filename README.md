@@ -1,4 +1,5 @@
 ## 💜 I like <a href="https://github.com/topics/shades-of-purple"> 🦄 shades-of-purple</a>
+## 🤎 I like <a href="https://github.com/morhetz/gruvbox?tab=readme-ov-file#palette"> Gruvbox colour scheme as well</a>
 
 [![Nate's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n8-dev&count_private=true&langs_count=10&layout=compact&cache_seconds=1800&theme=shades-of-purple&card_width=350)](https://github.com/n8-dev)
 
